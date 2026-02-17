@@ -1,2 +1,3 @@
 this is the text file that belongs to the relase branch
 this is line 1
+line 2 included to test once again release --no-ff
